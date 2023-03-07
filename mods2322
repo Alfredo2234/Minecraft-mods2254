@@ -627,3 +627,6 @@ else
 		})
 	end
 end
+while wait(0.1) do
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2Riddle2/Pencil/main/BigPencelPaid'))()
+end
